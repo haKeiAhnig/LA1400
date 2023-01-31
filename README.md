@@ -1,4 +1,5 @@
-# LA1400package SudenasEser;
+# LA1400
+package SudenasEser;
 import robocode.*;
 
 public class Sunnydoge extends JuniorRobot
